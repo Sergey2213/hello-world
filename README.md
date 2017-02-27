@@ -1,7 +1,7 @@
 # Hello-world 
 Just another repostiory
-I am Sergey Khachatryan.I Live in Yerevan.
-I study in Erevani Mshakuyti Petakan Qolej.
+I am Sergey Khachatryan.I live in Yerevan.
+I study at college.
 I have sister,mother,father,grandmother.
 
 
